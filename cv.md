@@ -6,13 +6,6 @@ E-mail: Alyashakirova16@gmail.com <br>
 [Telegram](https://t.me/AlyaShakirova)<br>
 [LinkedIn](https://www.linkedin.com/in/alief-shakirova)<br>
 [GitHub](https://github.com/Alief1620)<br>
-***
-
-### Profile
-
-<p>.</p>
-
-***
 
 
 ### Technical skills
@@ -37,7 +30,7 @@ E-mail: Alyashakirova16@gmail.com <br>
 ### Education
 
 * Bachelor's degree, Information Technology
-  + University of Information Technology and Management in Rzeszow
+  + University of Information Technology and Management in Rzeszow, Poland
   + *2022 - PRESENT*
 
 ***
